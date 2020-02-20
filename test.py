@@ -13,7 +13,7 @@ cursor = con.cursor()
 
 #sql = "CREATE TABLE ACCESS_LOG(IP TEXT, TIME TEXT, TYPE TEXT, URL TEXT, STATUS INTEGER, SIZE INTEGER)"
 #cursor.execute(sql)
-
+#AAAAAAAA
 print(data[['ip', 'time']])
 
 #sql = "INSERT INTO ACCESS_LOG VALUES('10.60.30.68', '2020-02-17', 'GET', 'www.ourhome.co.kr', 200, 10)"
